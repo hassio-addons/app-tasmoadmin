@@ -22,7 +22,7 @@ comparison to installing any other Home Assistant app.
 
 1. Click the "Install" button to install the app.
 1. Start the "TasmoAdmin" app.
-1. Check the logs of the “TasmoAdmin” app to see if everything went well.
+1. Check the logs of the "TasmoAdmin" app to see if everything went well.
 
 ## Configuration
 
@@ -37,7 +37,7 @@ certfile: fullchain.pem
 keyfile: privkey.pem
 ```
 
-**Note**: _This is just an example, don't copy and past it! Create your own!_
+**Note**: _This is just an example, don't copy and paste it! Create your own!_
 
 ### Option: `log_level`
 
